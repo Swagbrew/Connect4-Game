@@ -1,6 +1,3 @@
-# Connect4 Game
- Connect4 game made in Java and JavaFX while following a guide.
-
 # Connect4
 > The first one to line 4 circles wins.
 
